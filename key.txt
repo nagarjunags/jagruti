@@ -2,3 +2,4 @@ name:Naga     .
 git push https://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@github.com/nagarjunags/jagruti.git
 2.     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
 
+https://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@github.com/nagarjunags/python.git
